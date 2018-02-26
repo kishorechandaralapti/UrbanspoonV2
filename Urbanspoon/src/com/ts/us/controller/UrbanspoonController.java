@@ -19,6 +19,8 @@ public class UrbanspoonController extends HttpServlet {
 	 * @see HttpServlet#HttpServlet()
 	 */
 	public UrbanspoonController() {
+		
+		
 		super();
 	}
 
@@ -28,6 +30,10 @@ public class UrbanspoonController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
+		
+		/*System.out.println("this is doget Method");*/
+		
+		
 
 	}
 
